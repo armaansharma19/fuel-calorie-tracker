@@ -1,0 +1,10 @@
+{
+  "name": "Fuel Calorie & Nutrition Tracker",
+  "short_name": "Fuel",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#101915",
+  "theme_color": "#101915",
+  "description": "A private, offline-friendly calorie and nutrition diary.",
+  "icons": []
+}
